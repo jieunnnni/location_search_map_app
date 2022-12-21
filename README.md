@@ -3,7 +3,7 @@
 ### 프로젝트 소개
 위치 검색을 통해 마커로 지도에 위치를 표시하고, 현재 내 위치 정보를 가져와 마커로 지도 위에 표시하는 앱
 
-![](https://velog.velcdn.com/images/jieun0915/post/c8aaf862-bd5e-474e-b7bf-2ef81fc3e3ba/image.JPEG)
+![94AF7200-811B-4DF8-937C-BF28D9178E83-58326-000018679E758B95](https://user-images.githubusercontent.com/120105216/208840545-64cb762a-5b91-4e32-831b-3691148fc49a.jpg)
 
 ---
 
