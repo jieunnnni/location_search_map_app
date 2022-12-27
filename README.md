@@ -19,3 +19,4 @@
 - Coroutine
 - Retrofit
 - OkHttp
+- ViewBinding
